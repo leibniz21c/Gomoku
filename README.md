@@ -25,20 +25,20 @@ PyQt5-sip 12.8.1
 ### 3. Game Introduction
 It just a 'Gomoku' game. In Korean, "오목".
 1. Initial Display
-<img src="pic/pic_init" alt="Initial Display" width="400" height="300">
+<img src="https://github.com/ndo04343/Gomoku/tree/main/pic/pic_init" alt="Initial Display" width="400" height="300">
 If you start the game, you'll see this. And you can start the game with black stone.
 2. In Game
-<img src="pic/pic_ingame" alt="In Game Display" width="400" height="300">
+<img src="https://github.com/ndo04343/Gomoku/tree/main/pic/pic_ingame" alt="In Game Display" width="400" height="300">
 Maybe you keep the game like this picture. In this game, you must follow "33 rule".
 3. Rule
-<img src="pic/pic_three_three" alt="33 Display" width="400" height="300">
+<img src="https://github.com/ndo04343/Gomoku/tree/main/pic/pic_three_three" alt="33 Display" width="400" height="300">
 If you are a black stone user, you have to follow "33 rule".<br>
 I don't know about it. Just watch it. ["33 rule"](http://blog.naver.com/PostView.nhn?blogId=ddt2307&logNo=20007683337)
 <br>
-<img src="pic/pic_cannot" alt="Cannot Display" width="400" height="300">
+<img src="https://github.com/ndo04343/Gomoku/tree/main/pic/pic_cannot" alt="Cannot Display" width="400" height="300">
 You can see also this picture if you put the stone on the position that is already putted. <br>
 4. Game Set
-<img src="pic/pic_white_win alt="Game Set Display" width="400" height="300">
+<img src="https://github.com/ndo04343/Gomoku/tree/main/pic/pic_white_win alt="Game Set Display" width="400" height="300">
 If the game is setted, this picture be displayed.
 
  ### 4. Game Protocol
